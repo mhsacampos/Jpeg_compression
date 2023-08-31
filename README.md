@@ -19,3 +19,4 @@ Kindly check the poll in the discussions tab.
 If anyone codes the decoder, kindly let me know so that I can link your repository from here.
 
 Thanks
+# Jpeg_compression
